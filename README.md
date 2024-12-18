@@ -18,9 +18,14 @@ Task Persistence: Your data is saved locally and reloads instantly on app restar
 
 Tech Stack
 
-Frontend & UI: Flutter
-Local Database: Hive
-State Management: GetX    
+Frontend & UI: Flutter,
+Local Database: Hive,
+State Management: GetX,
+
+
+
+
+
 
     
 ![todomatrix](https://github.com/user-attachments/assets/aab859a7-773c-4472-a440-f66c7a1ed263)
